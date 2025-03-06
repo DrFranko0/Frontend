@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Funny";
+  src: url('/UnifrakturMaguntia-Regular.ttf');
+}
+
+.main{
+    background-color: #000000;
+}
+
+.font-hero{
+  font-family: "Funny";
+  font-weight: 200;
+}
